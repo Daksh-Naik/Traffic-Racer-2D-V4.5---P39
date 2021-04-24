@@ -234,7 +234,7 @@ function draw() {
     text("Survival Points : "+Survival, 900, PlayerCar.y-280);
     textSize(15)
     textFont("Georgia");
-    text("Traffic Racer V4 releasing soon!", 750, PlayerCar.y-70);
+    text("Traffic Racer V5 releasing soon!", 750, PlayerCar.y-70);
 
     textFont("Verdana");
     text("Travelled Distance :"+Kilometers, 740, PlayerCar.y-170);
@@ -258,7 +258,7 @@ function draw() {
         textFont("Times New Roman");
         text("Mts Driven : "+Kilometers, 900, PlayerCar.y-280);
         textFont("Georgia");
-        text("Traffic Racer V4 releasing soon!", 750, PlayerCar.y-70);
+        text("Traffic Racer V5 releasing soon!", 750, PlayerCar.y-70);
         text("Survival Points : "+Survival, 900, PlayerCar.y-320);
 
         OTrafficGroup.setVelocityYEach(0);
